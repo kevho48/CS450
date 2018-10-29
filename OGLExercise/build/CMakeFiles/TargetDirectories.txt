@@ -1,0 +1,4 @@
+C:/Users/Kevin Ho/Documents/CS450 Homework/OGLExercise/build/CMakeFiles/BasicGraphics.dir
+C:/Users/Kevin Ho/Documents/CS450 Homework/OGLExercise/build/CMakeFiles/INSTALL.dir
+C:/Users/Kevin Ho/Documents/CS450 Homework/OGLExercise/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Kevin Ho/Documents/CS450 Homework/OGLExercise/build/CMakeFiles/ZERO_CHECK.dir

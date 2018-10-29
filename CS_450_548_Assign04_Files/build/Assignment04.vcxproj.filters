@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\HitRecord.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\Light.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\Raytracer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\Scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\Sphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\HitRecord.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\Light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\Material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\Scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\Settings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\Sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C6667B3F-72EC-3DC0-932F-AE46BC768AC6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D3D2EFCC-2EB3-3355-B6A9-7AD4DAD2D9DA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

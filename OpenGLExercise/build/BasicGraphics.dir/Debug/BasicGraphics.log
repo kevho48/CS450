@@ -1,0 +1,3 @@
+﻿  TestMain.cpp
+C:\Users\Kevin Ho\Documents\CS450 Homework\OpenGLExercise\TestMain.cpp(377): warning C4305: 'initializing': truncation from 'double' to 'float'
+  BasicGraphics.vcxproj -> C:\Users\Kevin Ho\Documents\CS450 Homework\OpenGLExercise\build\Debug\BasicGraphics.exe

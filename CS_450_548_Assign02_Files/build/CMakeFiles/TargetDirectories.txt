@@ -1,0 +1,4 @@
+C:/Users/Kevin Ho/Documents/CS450 Homework/CS_450_548_Assign02_Files/build/CMakeFiles/BasicGraphics.dir
+C:/Users/Kevin Ho/Documents/CS450 Homework/CS_450_548_Assign02_Files/build/CMakeFiles/INSTALL.dir
+C:/Users/Kevin Ho/Documents/CS450 Homework/CS_450_548_Assign02_Files/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Kevin Ho/Documents/CS450 Homework/CS_450_548_Assign02_Files/build/CMakeFiles/ZERO_CHECK.dir

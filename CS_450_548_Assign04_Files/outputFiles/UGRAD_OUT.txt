@@ -1,0 +1,32 @@
+** BEGIN TESTING *****************
+DEFAULTS:
+	t: -1
+	Point: vec3(0.000000, 0.000000, 0.000000)
+	Normal: vec3(0.000000, 0.000000, 1.000000)
+	Mat Index: 0
+USING CONSTRUCTOR:
+	t: 1
+	Point: vec3(2.000000, 3.000000, 4.000000)
+	Normal: vec3(5.000000, 6.000000, 7.000000)
+	Mat Index: 8
+AFTER SET FUNCTIONS:
+	t: 9
+	Point: vec3(10.000000, 11.000000, 12.000000)
+	Normal: vec3(13.000000, 14.000000, 15.000000)
+	Mat Index: 16
+MIN_DISTANCE_T: 0.001
+HIT: 1 1
+	t: 2.27924
+	Point: vec3(2.279241, 2.279241, 1.279241)
+	Normal: vec3(-0.360380, -0.360380, -0.860380)
+	Mat Index: 3
+** END TESTING *****************
+GLEW initialized; version 2.1.0
+OpenGL context version: 3.3
+Supported GLSL version is 3.30 NVIDIA via Cg compiler.
+Compiling vertex shader : ../shaders/RTT.vs
+
+Compiling fragment shader : ../shaders/RTT.ps
+
+Linking program
+

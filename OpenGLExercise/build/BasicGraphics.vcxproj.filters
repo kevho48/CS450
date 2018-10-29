@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\OpenGLExercise\TestMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Kevin Ho\Documents\CS450 Homework\OpenGLExercise\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{55233868-91AD-34C1-8638-2247812879C3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

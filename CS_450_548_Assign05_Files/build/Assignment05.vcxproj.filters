@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\Light.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\MeshMaterial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\MeshShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\Object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\TestMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\Light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\Mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\MeshMaterial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\MeshShader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\Model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\Object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\Settings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\Utilities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{459585E8-E3D8-3F7F-807F-49F613B672F1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{21E2DF33-55A7-3A9C-8961-1F7345B0641F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

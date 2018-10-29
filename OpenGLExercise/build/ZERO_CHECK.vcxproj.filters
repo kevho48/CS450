@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Kevin Ho\Documents\CS450 Homework\OpenGLExercise\build\CMakeFiles\02c0d3ccd471e63633d681e9fd2e8b7c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4ECC7442-FB49-3735-BBDB-470837234045}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

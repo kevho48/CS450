@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign02_Files\Light.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign02_Files\Sphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign02_Files\TestGMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign02_Files\TestUGMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign02_Files\Light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign02_Files\Sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign02_Files\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CFC9542A-5E3B-34D8-9C08-052F85A38DF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{549778C2-5762-3D7F-B005-775E72D9D0E9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

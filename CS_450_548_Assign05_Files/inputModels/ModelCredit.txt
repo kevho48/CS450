@@ -1,0 +1,7 @@
+Utah Teapot
+
+- http://goanna.cs.rmit.edu.au/~pknowles/models.html
+
+Stanford Bunny
+
+- http://www.prinmath.com/csci5229/OBJ/index.html

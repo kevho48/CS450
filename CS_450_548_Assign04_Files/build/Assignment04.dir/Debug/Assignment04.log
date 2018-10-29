@@ -1,0 +1,25 @@
+﻿  Building Custom Rule C:/Users/Kevin Ho/Documents/CS450 Homework/CS_450_548_Assign04_Files/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Kevin Ho/Documents/CS450 Homework/CS_450_548_Assign04_Files/build/CMakeFiles/generate.stamp is up-to-date.
+  HitRecord.cpp
+  Light.cpp
+  Material.cpp
+  Raytracer.cpp
+C:\Dependencies\INSTALL\include\stb_image_write.h(233): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+C:\Dependencies\INSTALL\include\stb_image_write.h(629): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+C:\Dependencies\INSTALL\include\stb_image_write.h(1013): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\dependencies\install\include\assimp\defs.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+c:\dependencies\install\include\assimp\matrix3x3.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+c:\dependencies\install\include\assimp\matrix3x3.inl : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+c:\dependencies\install\include\assimp\matrix4x4.inl : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  Scene.cpp
+C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\Scene.cpp(199): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\Scene.cpp(200): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sphere.cpp
+C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\Sphere.cpp(32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\Sphere.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\Sphere.cpp(40): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Assignment04.vcxproj -> C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign04_Files\build\Debug\Assignment04.exe

@@ -1,0 +1,37 @@
+﻿  Camera.cpp
+c:\users\kevin ho\documents\cs450 homework\cs_450_548_assign05_files\Camera.h(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\Camera.cpp(11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\Camera.cpp(12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  MeshShader.cpp
+c:\users\kevin ho\documents\cs450 homework\cs_450_548_assign05_files\Camera.h(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Object.cpp
+c:\dependencies\install\include\assimp\defs.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+c:\dependencies\install\include\assimp\matrix3x3.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+c:\dependencies\install\include\assimp\matrix3x3.inl : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+c:\dependencies\install\include\assimp\matrix4x4.inl : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+c:\users\kevin ho\documents\cs450 homework\cs_450_548_assign05_files\Model.h(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin ho\documents\cs450 homework\cs_450_548_assign05_files\Model.h(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin ho\documents\cs450 homework\cs_450_548_assign05_files\Model.h(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin ho\documents\cs450 homework\cs_450_548_assign05_files\Model.h(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin ho\documents\cs450 homework\cs_450_548_assign05_files\Model.h(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin ho\documents\cs450 homework\cs_450_548_assign05_files\Model.h(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin ho\documents\cs450 homework\cs_450_548_assign05_files\Camera.h(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  TestMain.cpp
+c:\dependencies\install\include\assimp\defs.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+c:\dependencies\install\include\assimp\matrix3x3.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+c:\dependencies\install\include\assimp\matrix3x3.inl : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+c:\dependencies\install\include\assimp\matrix4x4.inl : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+c:\users\kevin ho\documents\cs450 homework\cs_450_548_assign05_files\Model.h(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin ho\documents\cs450 homework\cs_450_548_assign05_files\Model.h(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin ho\documents\cs450 homework\cs_450_548_assign05_files\Model.h(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin ho\documents\cs450 homework\cs_450_548_assign05_files\Model.h(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin ho\documents\cs450 homework\cs_450_548_assign05_files\Model.h(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin ho\documents\cs450 homework\cs_450_548_assign05_files\Model.h(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin ho\documents\cs450 homework\cs_450_548_assign05_files\Camera.h(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\TestMain.cpp(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\TestMain.cpp(34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\TestMain.cpp(180): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\TestMain.cpp(181): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\TestMain.cpp(294): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Assignment05.vcxproj -> C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign05_Files\build\Debug\Assignment05.exe

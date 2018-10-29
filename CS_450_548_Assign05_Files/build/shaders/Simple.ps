@@ -1,0 +1,47 @@
+#version 330 core
+
+in vec3 view_Half;
+in vec3 view_Normal;
+in vec3 view_LightDir;
+
+struct PointLight {
+    vec3 pos;
+    vec3 color;
+};
+
+struct Material {
+    vec3 kd;
+    vec3 ks;
+    float shininess;
+};
+
+uniform PointLight light;
+uniform Material   material;
+
+layout(location = 0) out vec4 out_color;
+
+
+void main()
+{
+    vec3 N = normalize(view_Normal);
+    vec3 H = normalize(view_Half);
+    vec3 L = normalize(view_LightDir);
+
+    // compute the diffuse component
+    float diffuse = max(0, dot(N,L));
+
+    // compute the specular component
+    float spec = pow(max(0, dot(H,N)), material.shininess);
+
+    // compute the color
+    vec3 color = light.color * diffuse * (material.kd + material.ks*spec);
+
+    // perfrom tone mapping
+    color = color / (color + vec3(1.0));
+    
+    // perform gamma correction
+    color = pow(color, vec3(1.0/2.2));
+
+    // set the actual color now
+    out_color = vec4(color, 1.0);
+}

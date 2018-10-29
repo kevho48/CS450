@@ -1,0 +1,4 @@
+C:/Users/Kevin Ho/Documents/CS450 Homework/DrMichaelReale-basicgraphics-8900e42e5aa6/build/CMakeFiles/BasicGraphics.dir
+C:/Users/Kevin Ho/Documents/CS450 Homework/DrMichaelReale-basicgraphics-8900e42e5aa6/build/CMakeFiles/INSTALL.dir
+C:/Users/Kevin Ho/Documents/CS450 Homework/DrMichaelReale-basicgraphics-8900e42e5aa6/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Kevin Ho/Documents/CS450 Homework/DrMichaelReale-basicgraphics-8900e42e5aa6/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign03_Files\Light.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign03_Files\Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign03_Files\Scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign03_Files\Sphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign03_Files\TestUGMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign03_Files\Light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign03_Files\Material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign03_Files\Scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign03_Files\Sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Kevin Ho\Documents\CS450 Homework\CS_450_548_Assign03_Files\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{09E2E299-2FE5-3369-B081-7DFD6E20D54B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{ED0FEE0C-46FF-39A3-89E5-4527B26486A8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
